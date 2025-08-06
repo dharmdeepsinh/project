@@ -1,7 +1,3 @@
-# new project
+# new starting 
 
-this project was created from local system 
-
-# new practise 
-
-hii for the practise
+hii this is dhems
