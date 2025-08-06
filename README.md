@@ -1,7 +1,7 @@
 # name 
 
-dharmdeepsinh gohil
+gohil dharmdeepsinh
 
-# study 
+# studying 
 
-robotics and automation 
+gec gandhinagar
