@@ -1,8 +1,7 @@
+# name 
 
-# new dome 
+dharmdeepsinh gohil
 
-hey its dhems...
+# study 
 
-# new dome 
-
-hey it ' s dhems...
+robotics and automation 
