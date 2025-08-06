@@ -1,7 +1,3 @@
-# new starting 
+# new dome 
 
-hii this is dhems , this is new 
-
-# new work 
-
-let ' s do this combine.
+hey its dhems
