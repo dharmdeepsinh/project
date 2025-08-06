@@ -1,1 +1,2 @@
-// hii my name is dharmdeepsinh gohil
+let a = 45;
+console.log(a);
